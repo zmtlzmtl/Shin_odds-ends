@@ -1,0 +1,2 @@
+https://ko.javascript.info/
+자바스크립트
